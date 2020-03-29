@@ -17,6 +17,7 @@ public class hashMapTest {
         for (String s : keySet) {
             System.out.println("key:"+s+"  value:"+map.get(s));
             System.out.println("git,test");
+            System.out.println("gitdemo");
         }
 
        //获取迭代器，然后用while循环判断下表
